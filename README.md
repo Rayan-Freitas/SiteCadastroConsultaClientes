@@ -1,5 +1,5 @@
 # SiteCadastroConsultaClientes
-Primeiro site feito em PHP para fins profissionais, é um site entre o básico e intermediário para o Cadastro, Consulta e Relatório de Clientes(Incompleto)
+Primeiro site feito em PHP para fins profissionais, é um site entre o básico e intermediário para o Cadastro, Consulta e Relatório de Clientes
 <br>
 <h2>Seguranças</h2><br><h3>
   Segurança de urls PHP, causa redirecionamento quando não há uma sessão ativa e segura
