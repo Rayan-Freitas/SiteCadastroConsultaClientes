@@ -24,3 +24,7 @@ A seguir estão os gifs demonstrando o funcionamento do site
   <hr>
   <h2>Consulta de Clientes por CPF ou por Alfabeto</h2>
   <img src="https://user-images.githubusercontent.com/72174813/135695324-3929540f-5646-470f-a3ce-4da47a90c7fa.gif">
+  
+  
+  <h1>Obs:</h1>
+  <h2>Sistema integrado em Python, de geração de relatórios de PDF e envio automático por Email DESCONTINUADO, mesmo que funcional"
