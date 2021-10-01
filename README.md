@@ -14,9 +14,13 @@ A seguir estão os gifs demonstrando o funcionamento do site
 <h1>Gifs</h1>
 <br>
   <h2>Segurança de urls PHP</h2>
-  ![login](https://user-images.githubusercontent.com/72174813/135693071-83ce5e8b-37e5-43f9-87f7-ff7d97359a90.gif)
+  <img src="https://user-images.githubusercontent.com/72174813/135695438-0530389d-076d-4d18-8f06-99fde8d9d69c.gif">
   <hr>
-  <br>
   <h2>Login<h2>
-    
-
+  <img src="https://user-images.githubusercontent.com/72174813/135695911-720a00f1-998e-43bb-93d0-6ac8abc91351.gif">
+  <hr>
+  <h2>Cadastro e Verificação de CPF existente</h2>
+  <img src="https://user-images.githubusercontent.com/72174813/135694297-5e96d839-e962-4d2b-b2c5-8e88cfc2d1fd.gif">
+  <hr>
+  <h2>Consulta de Clientes por CPF ou por Alfabeto</h2>
+  <img src="https://user-images.githubusercontent.com/72174813/135695324-3929540f-5646-470f-a3ce-4da47a90c7fa.gif">
