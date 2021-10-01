@@ -27,4 +27,4 @@ A seguir estão os gifs demonstrando o funcionamento do site
   
   
   <h1>Obs:</h1>
-  <h2>Sistema integrado em Python, de geração de relatórios de PDF e envio automático por Email DESCONTINUADO, mesmo que funcional"
+  <h2>Sistema de geração de relatórios de PDF e envio automático por Email, integrado em Python, foi DESCONTINUADO, mesmo que funcional"
