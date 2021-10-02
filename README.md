@@ -20,7 +20,7 @@ A seguir estão os gifs demonstrando o funcionamento do site
   <img src="https://user-images.githubusercontent.com/72174813/135695911-720a00f1-998e-43bb-93d0-6ac8abc91351.gif">
   <hr>
   <h2>Cadastro e Verificação de CPF existente</h2>
-  <img src="https://user-images.githubusercontent.com/72174813/135694297-5e96d839-e962-4d2b-b2c5-8e88cfc2d1fd.gif">
+  <img src="https://user-images.githubusercontent.com/72174813/135726869-1a9ff75f-3a84-4a56-9b9b-c991ea287a61.gif">
   <hr>
   <h2>Consulta de Clientes por CPF ou por Alfabeto</h2>
   <img src="https://user-images.githubusercontent.com/72174813/135695324-3929540f-5646-470f-a3ce-4da47a90c7fa.gif">
